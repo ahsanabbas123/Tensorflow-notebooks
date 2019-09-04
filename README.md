@@ -6,3 +6,4 @@ Classification tasks using Tensorflow (Keras)
 - MNIST:
 - Kaggle Cats and Dogs Dataset:
 - Horses-vs-Humans Classifier:
+- Happy/Sad Emoji Classifier
