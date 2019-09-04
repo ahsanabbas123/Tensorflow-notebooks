@@ -2,8 +2,8 @@
 
 Classification tasks using Tensorflow (Keras)
 
-- FMNIST: 
-- MNIST:
-- Kaggle Cats and Dogs Dataset:
-- Horses-vs-Humans Classifier:
+- FMNIST 
+- MNIST : Handwritten Digits Classification
+- Kaggle Cats and Dogs Dataset
+- Horses-vs-Humans Classifier
 - Happy/Sad Emoji Classifier
